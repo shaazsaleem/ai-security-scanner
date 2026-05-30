@@ -58,11 +58,3 @@ GEMINI_API_KEY=your_api_key_here
 ```bash
 python3.13 scanner.py <file_to_check>
 ```
-
-## Built With
-
-This project was built as part of [NextWork's](https://learn.nextwork.org) AI Security Scanner project.
-
-## License
-
-MIT
